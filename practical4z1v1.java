@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class practical4z1v1 {
+    //Завдання 1; Варіант 1
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введіть число від 1 до 7, щоб дізнатися день тижня: ");
