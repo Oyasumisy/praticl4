@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class practical4z3v2 {
+    //Завдання 3; Варіант 2
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введіть число N для виведення всіх простих чисел від 1 до N: ");
