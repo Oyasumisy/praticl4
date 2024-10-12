@@ -2,6 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class practical4z2v4 {
+    //Завдання 2; Варіант 4
     public static void main(String[] args) {
         int randomNumber = new Random().nextInt(100) + 1;
         Scanner scanner = new Scanner(System.in);
